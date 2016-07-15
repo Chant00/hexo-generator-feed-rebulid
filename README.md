@@ -7,7 +7,8 @@ add css to support rss view better
 - You want to make your rss looking better  
 
 ## Resolve  
-add css to the rss'xml    
+add css to the rss'xml   
+Watch my [Demo](http://jarbob.com/rss2.xml)  
 
 ## How to use
 Ok, everybody.Let's begin.  
